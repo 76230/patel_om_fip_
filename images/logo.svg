@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201.78 92.04">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: ImprintMT-Shadow, 'Imprint MT Shadow';
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        font-size: 44px;
+      }
+
+      .cls-2 {
+        font-size: 84.13px;
+      }
+
+      .cls-5 {
+        fill: #a97c50;
+      }
+
+      .cls-3 {
+        fill: #754c29;
+        font-family: ComicSansMS, 'Comic Sans MS';
+      }
+
+      .cls-4 {
+        opacity: .5;
+        stroke: #a97c50;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(81.92 74.23)"><tspan x="0" y="0">KING</tspan></text>
+  <text class="cls-2" transform="translate(42.91 20.95) rotate(179.94)"><tspan x="0" y="0">7</tspan></text>
+  <text class="cls-1" transform="translate(37.51 61.97) rotate(-.06)"><tspan x="0" y="0">00</tspan></text>
+  <path d="M74.44,51.24c6.43,0,6.45-10,0-10s-6.45,10,0,10h0Z"/>
+  <path d="M52.48,51.6c6.43,0,6.45-10,0-10s-6.45,10,0,10h0Z"/>
+  <path class="cls-4" d="M171.01,40.48c8.25-.6,16.5-1.2,24.75-1.8,.78-5.76,1.56-11.52,2.34-17.28-3.01,3.92-6.01,7.85-9.02,11.77-1.78-5.72-3.57-11.45-5.35-17.17-1.77,5.85-3.53,11.69-5.3,17.54-2.86-4.23-5.73-8.46-8.59-12.68,.39,6.54,.78,13.08,1.17,19.62Z"/>
+  <path class="cls-5" d="M168.88,20.3c3.22,0,3.22-5,0-5s-3.22,5,0,5h0Z"/>
+  <path class="cls-5" d="M183.76,16.22c3.22,0,3.22-5,0-5s-3.22,5,0,5h0Z"/>
+  <path class="cls-5" d="M199.36,21.5c3.22,0,3.22-5,0-5s-3.22,5,0,5h0Z"/>
+  <path d="M199.36,20.56c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+  <path d="M183.88,15.52c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+  <path d="M168.94,19.84c1.93,0,1.93-3,0-3s-1.93,3,0,3h0Z"/>
+</svg>
